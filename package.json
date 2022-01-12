@@ -1,0 +1,25 @@
+{
+  "name": "npm-react-project",
+  "version": "1.0.0",
+  "description": "Description",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SokolovskyVadim/npm-react-project.git"
+  },
+  "author": "Sokolovsky Vadim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SokolovskyVadim/npm-react-project/issues"
+  },
+  "homepage": "https://github.com/SokolovskyVadim/npm-react-project#readme",
+  "dependencies": {
+    "html-webpack-plugin": "^5.5.0",
+    "webpack": "^5.66.0",
+    "webpack-cli": "^4.9.1",
+    "webpack-dev-server": "^4.7.3"
+  }
+}
