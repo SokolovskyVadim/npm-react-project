@@ -1,5 +1,9 @@
-import sayHelloWorld from "../public/helpers/sayHelloWorld";
+import React from "react";
+import ReactDom from "react-dom"
 
-var parent = document.getElementById('root');
+import App from "./App";
 
-sayHelloWorld(parent);
+ReactDom.render(<App/>, document.getElementById('root'));
+
+
+
