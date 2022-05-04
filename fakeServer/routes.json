@@ -1,0 +1,5 @@
+{
+  "/tasks*": "/640/tasks$1",
+  "protectedTasks*": "/600/protectedTasks$1",
+  "protectedTasks/:taskListID": "/600/protectedTasks/:taskListID"
+}
